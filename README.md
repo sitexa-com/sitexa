@@ -1,2 +1,2 @@
 # sitexa
-Application with databases, backend technology, frontend technology, introduce in some interesting framework, m
+Application with database, backend technology, frontend technology, introduce in some interesting framework and component, maybe valueable, may not.
